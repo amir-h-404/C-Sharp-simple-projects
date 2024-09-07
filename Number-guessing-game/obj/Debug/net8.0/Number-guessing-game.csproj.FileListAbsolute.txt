@@ -1,0 +1,15 @@
+D:\C Sharp\Learn-CSharp\Number-guessing-game\bin\Debug\net8.0\Number-guessing-game.exe
+D:\C Sharp\Learn-CSharp\Number-guessing-game\bin\Debug\net8.0\Number-guessing-game.deps.json
+D:\C Sharp\Learn-CSharp\Number-guessing-game\bin\Debug\net8.0\Number-guessing-game.runtimeconfig.json
+D:\C Sharp\Learn-CSharp\Number-guessing-game\bin\Debug\net8.0\Number-guessing-game.dll
+D:\C Sharp\Learn-CSharp\Number-guessing-game\bin\Debug\net8.0\Number-guessing-game.pdb
+D:\C Sharp\Learn-CSharp\Number-guessing-game\obj\Debug\net8.0\Number-guessing-game.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\Learn-CSharp\Number-guessing-game\obj\Debug\net8.0\Number-guessing-game.AssemblyInfoInputs.cache
+D:\C Sharp\Learn-CSharp\Number-guessing-game\obj\Debug\net8.0\Number-guessing-game.AssemblyInfo.cs
+D:\C Sharp\Learn-CSharp\Number-guessing-game\obj\Debug\net8.0\Number-guessing-game.csproj.CoreCompileInputs.cache
+D:\C Sharp\Learn-CSharp\Number-guessing-game\obj\Debug\net8.0\Number-guessing-game.sourcelink.json
+D:\C Sharp\Learn-CSharp\Number-guessing-game\obj\Debug\net8.0\Number-guessing-game.dll
+D:\C Sharp\Learn-CSharp\Number-guessing-game\obj\Debug\net8.0\refint\Number-guessing-game.dll
+D:\C Sharp\Learn-CSharp\Number-guessing-game\obj\Debug\net8.0\Number-guessing-game.pdb
+D:\C Sharp\Learn-CSharp\Number-guessing-game\obj\Debug\net8.0\Number-guessing-game.genruntimeconfig.cache
+D:\C Sharp\Learn-CSharp\Number-guessing-game\obj\Debug\net8.0\ref\Number-guessing-game.dll

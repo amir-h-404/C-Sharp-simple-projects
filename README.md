@@ -1,4 +1,6 @@
 # My simple C# projects for practice:
-| number | name | Creation date | Edit date | description |
-| :--: | :--: | :--: | :--: | :-- |
-| 1 | simple calculator | 17 September 2024 | 17 September 2024 | - Write a program that performs addition, subtraction, multiplication and division operations. <br>- Receive two numbers and the type of operation from the user and display the result. |
+
+| number |         name         |   Creation date   |     Edit date     | description                                                                                                                                                                                                              |
+|:------:|:--------------------:|:-----------------:|:-----------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   1    |  simple calculator   | 17 September 2024 | 17 September 2024 | - Write a program that performs addition, subtraction, multiplication and division operations. <br>- Receive two numbers and the type of operation from the user and display the result.                                 |
+|   2    | number guessing game | 17 September 2024 | 17 September 2024 | - Write a program where the user chooses a random number between 1 and 100.<br>- The user must guess the number and the program will tell him that the number is bigger or smaller, until he guesses the correct number. |
