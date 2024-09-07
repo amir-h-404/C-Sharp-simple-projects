@@ -1,0 +1,15 @@
+D:\C Sharp\Learn-CSharp\Calculator\bin\Debug\net8.0\Calculator.exe
+D:\C Sharp\Learn-CSharp\Calculator\bin\Debug\net8.0\Calculator.deps.json
+D:\C Sharp\Learn-CSharp\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+D:\C Sharp\Learn-CSharp\Calculator\bin\Debug\net8.0\Calculator.dll
+D:\C Sharp\Learn-CSharp\Calculator\bin\Debug\net8.0\Calculator.pdb
+D:\C Sharp\Learn-CSharp\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\Learn-CSharp\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+D:\C Sharp\Learn-CSharp\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+D:\C Sharp\Learn-CSharp\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+D:\C Sharp\Learn-CSharp\Calculator\obj\Debug\net8.0\Calculator.sourcelink.json
+D:\C Sharp\Learn-CSharp\Calculator\obj\Debug\net8.0\Calculator.dll
+D:\C Sharp\Learn-CSharp\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+D:\C Sharp\Learn-CSharp\Calculator\obj\Debug\net8.0\Calculator.pdb
+D:\C Sharp\Learn-CSharp\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+D:\C Sharp\Learn-CSharp\Calculator\obj\Debug\net8.0\ref\Calculator.dll

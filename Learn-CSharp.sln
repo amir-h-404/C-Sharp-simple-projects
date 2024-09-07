@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{BB42EA9E-F122-4959-9C57-765712BEC80E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number-guessing-game", "Number-guessing-game\Number-guessing-game.csproj", "{5278A71C-8716-49A8-941E-7492C2993E0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB42EA9E-F122-4959-9C57-765712BEC80E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB42EA9E-F122-4959-9C57-765712BEC80E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB42EA9E-F122-4959-9C57-765712BEC80E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB42EA9E-F122-4959-9C57-765712BEC80E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5278A71C-8716-49A8-941E-7492C2993E0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5278A71C-8716-49A8-941E-7492C2993E0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5278A71C-8716-49A8-941E-7492C2993E0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5278A71C-8716-49A8-941E-7492C2993E0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
