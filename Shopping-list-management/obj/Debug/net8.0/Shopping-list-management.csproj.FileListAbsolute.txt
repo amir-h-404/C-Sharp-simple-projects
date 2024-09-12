@@ -1,0 +1,15 @@
+D:\C Sharp\Learn-CSharp\Shopping-list-management\bin\Debug\net8.0\Shopping-list-management.exe
+D:\C Sharp\Learn-CSharp\Shopping-list-management\bin\Debug\net8.0\Shopping-list-management.deps.json
+D:\C Sharp\Learn-CSharp\Shopping-list-management\bin\Debug\net8.0\Shopping-list-management.runtimeconfig.json
+D:\C Sharp\Learn-CSharp\Shopping-list-management\bin\Debug\net8.0\Shopping-list-management.dll
+D:\C Sharp\Learn-CSharp\Shopping-list-management\bin\Debug\net8.0\Shopping-list-management.pdb
+D:\C Sharp\Learn-CSharp\Shopping-list-management\obj\Debug\net8.0\Shopping-list-management.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\Learn-CSharp\Shopping-list-management\obj\Debug\net8.0\Shopping-list-management.AssemblyInfoInputs.cache
+D:\C Sharp\Learn-CSharp\Shopping-list-management\obj\Debug\net8.0\Shopping-list-management.AssemblyInfo.cs
+D:\C Sharp\Learn-CSharp\Shopping-list-management\obj\Debug\net8.0\Shopping-list-management.csproj.CoreCompileInputs.cache
+D:\C Sharp\Learn-CSharp\Shopping-list-management\obj\Debug\net8.0\Shopping-list-management.sourcelink.json
+D:\C Sharp\Learn-CSharp\Shopping-list-management\obj\Debug\net8.0\Shopping-list-management.dll
+D:\C Sharp\Learn-CSharp\Shopping-list-management\obj\Debug\net8.0\refint\Shopping-list-management.dll
+D:\C Sharp\Learn-CSharp\Shopping-list-management\obj\Debug\net8.0\Shopping-list-management.pdb
+D:\C Sharp\Learn-CSharp\Shopping-list-management\obj\Debug\net8.0\Shopping-list-management.genruntimeconfig.cache
+D:\C Sharp\Learn-CSharp\Shopping-list-management\obj\Debug\net8.0\ref\Shopping-list-management.dll
